@@ -8,4 +8,5 @@
   * [1.2.1 3.0客户端下载](chapter1/121-30ke-hu-duan-xia-zai.md)
 * [1.3 客户端功能介绍](13.md)
   * [1.3.1 产品特色](13/131.md)
+  * [1.3.2 产品更新内容](13/132-chan-pin-geng-xin-nei-rong.md)
 
