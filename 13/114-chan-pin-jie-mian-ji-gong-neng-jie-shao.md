@@ -1,10 +1,8 @@
-
-
 ## **产品界面及功能详情**
 
 ## **一）、产品logo及启动图标**
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps71EA.tmp.jpg)
+![](/assets/图片1.png)
 
 ## **二）、启动动画**
 
