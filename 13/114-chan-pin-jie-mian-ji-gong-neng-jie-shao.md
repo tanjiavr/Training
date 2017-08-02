@@ -4,41 +4,39 @@
 
 ![](/assets/图片1.png)
 
-## **二）、启动动画**
-
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps71FB.tmp.jpg)
+## **二）、启动动画**![](/assets/2.png)
 
 ## **三）、登录界面**
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps71FC.tmp.jpg)
+![](/assets/登录页面.png)
 
 **功能详情**：
 
 1）、**历史账号提示**：非首次登录，会有历史账号显示，选择历史账号，可直接填入输入框
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps71FD.tmp.jpg)
+![](/assets/功能详情.png)
 
 ## **四）、设计列表界面**
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps71FE.tmp.jpg)
+![](/assets/设计列表图片.png)
 
 **功能详情**：
 
 1）、**常用设计**：用户上一次打开过的设计或者用户首个设计；如果是从设计场景点击我的设计，进到此设计列表界面，常用设计显示的就是当前场景打开的设计，再次鼠标左键点击常用设计，则场景不会重新加载，返回设计场景界面。
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps720F.tmp.jpg)
+![](/assets/常用设计.png)
 
 2）、**我的设计**：用户在云设计保存的设计方案列表；鼠标左键点击方案，会进入当前方案加载；
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7210.tmp.jpg)
+![](/assets/我的设计.png)
 
 3）、**翻页器**：“1”为当前页，可直接输入，鼠标左键点击“GO”跳转页面；“2”为总页数，不可编辑；箭头分别表示上下翻页；
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7211.tmp.jpg)
+![](/assets/翻页器.png)
 
 4）、**关闭按钮**：登录进入设计列表时，鼠标左键点击关闭按钮，系统会默认加载常用设计，设计为空时，会返回登录界面；从设计界面进入设计列表时，鼠标左键点击关闭按钮，直接返回进入前的设计界面状态；
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7212.tmp.jpg)
+![](/assets/我的设计关闭按钮.png)
 
 ## **五）、设计界面**
 
