@@ -40,41 +40,41 @@
 
 ## **五）、设计界面**
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7222.tmp.jpg)
+![](/assets/设计页面.png)
 
 ### **（一）、一级导航栏**
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7223.tmp.jpg)
+![](/assets/一级导航栏.png)
 
 **功能详情**：
 
 1）、**我的设计**：鼠标左键点击我的设计，进入设计列表页面（加载过程中可以进入我的设计换设计方案）
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7224.tmp.jpg)
+![](/assets/一级导航栏 我的设计.png)
 
 2）、**2D页面切换按钮**：鼠标左键点击2D，则进入2D页面
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7225.tmp.jpg)
+![](/assets/2D页面切换按钮.png)
 
 3）、**3D页面切换按钮**：鼠标左键点击3D，则进入3D页面
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7226.tmp.jpg)
+![](/assets/3D页面切换按钮.png)
 
 4\)、**VR模式切换按钮**：如果没有连接VR设备，鼠标左键点击时会提示“请连接VR设备”；如果已正常连接，鼠标左键点击时，进入VR模式，快捷键为键盘Enter
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7227.tmp.jpg)
+![](/assets/VR切换按钮.png)
 
 5\)、**同步云设计**：鼠标左键点击同步云设计按钮，则同步云端设计最新修改到VR客户端，即获取云端设计最新保存状态
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7238.tmp.jpg)
+![](/assets/同步云设计按钮.png)
 
 6）、**帮助**：鼠标左键点击帮助按钮，会展开帮助窗口；客户端会一步步完善使用帮助功能
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7239.tmp.jpg)
+![](/assets/帮助按钮.png)
 
 如快捷键：
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps723A.tmp.jpg)
+![](/assets/快捷键.png)
 
 7）、**设置**：
 
@@ -84,11 +84,11 @@
 
 缓存清理：当系统有安全缓存以外的垃圾缓存时，点击缓存清理，即可清理多余的垃圾缓存；当垃圾缓存达到一定电脑极限时，系统会触发自动清除垃圾缓存；
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps723B.tmp.jpg)
+![](/assets/设置.png)
 
 ### **（二）、3D界面**
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps723C.tmp.jpg)
+![](/assets/3D界面.png)
 
 **功能详情：**
 
