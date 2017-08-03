@@ -152,31 +152,31 @@
 
 3）、**删除**：选中模型后，鼠标左键点击删除，可以删除当前模型
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7279.tmp.jpg)
+![](/assets/2D-删除.png)
 
 4）、**逆时针旋转45度**：选中模型后，鼠标左键点击此按钮可逆时针旋转模型45度
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps7289.tmp.jpg)
+![](/assets/2D-逆时针旋转45度.png)
 
 5）、**顺时针旋转45度**：选中模型后，鼠标左键点击此按钮可顺时针旋转模型45度
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps728A.tmp.jpg)
+![](/assets/2D-顺时针旋转45度.png)
 
 6\)、**垂直镜像**：选中模型后，鼠标左键点击此按钮可进行模型垂直镜像翻转
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps729B.tmp.jpg)
+![](/assets/2D-垂直镜像.png)
 
 7）、**水平镜像**：选中模型后，鼠标左键点击此按钮可进行模型水平镜像翻转
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps72DB.tmp.jpg)
+![](/assets/2D-水平镜像.png)
 
 8）、**绘制墙体**：点击绘制墙体，可在画布上画墙
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps731A.tmp.jpg)
+![](/assets/2D-绘制墙体.png)
 
 9\)、**模型替换**：同3D
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps731B.tmp.jpg)![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps733B.tmp.jpg)
+![](/assets/2D-模型替换.png)![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps733B.tmp.jpg)
 
 ### **（四）、VR界面**
 
@@ -184,15 +184,15 @@
 
 1）、手柄提示：按下手柄操作提示键，可显示手柄功能提示
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps734C.tmp.jpg)
+![](/assets/手柄图片.png)
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps734D.tmp.jpg)
+![](/assets/手柄图片功能.png)
 
 右手柄
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps734E.tmp.jpg)
+![](/assets/右手柄.png)
 
 左手柄：
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wps734F.tmp.jpg)
+![](/assets/左手柄.png)
 
