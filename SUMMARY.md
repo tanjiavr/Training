@@ -12,4 +12,6 @@
   * [1.3.3 产品品牌介绍](13/133-chan-pin-pin-pai-jie-shao.md)
   * [1.1.4 产品界面及功能介绍](13/114-chan-pin-jie-mian-ji-gong-neng-jie-shao.md)
 * [1.4 硬件安装](14-ying-jian-an-zhuang.md)
+  * [1.4.1 VIVE头戴式设备](14-ying-jian-an-zhuang/141.md)
+  * 
 
