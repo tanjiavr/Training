@@ -13,4 +13,6 @@
   * [1.1.4 产品界面及功能介绍](13/114-chan-pin-jie-mian-ji-gong-neng-jie-shao.md)
 * [1.4 硬件安装](14-ying-jian-an-zhuang.md)
   * [1.4.1 VIVE头戴设备](14-ying-jian-an-zhuang/141-vivetou-dai-she-bei.md)
+  * [1.4.2 串流盒](14-ying-jian-an-zhuang/142.md)
+  * [1.4.3 VR操控手柄](14-ying-jian-an-zhuang/143-vrcao-kong-shou-bing.md)
 
