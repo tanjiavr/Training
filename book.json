@@ -1,22 +1,8 @@
 {
-    // Folders to use for output
-    // Caution: it overrides the value from the command line
-    // It's not advised this option in the book.json
-    "output": null,
-
-    // Generator to use for building
-    // Caution: it overrides the value from the command line
-    // It's not advised this option in the book.json
-    "generator": "site",
-
-    // Book metadats (somes are extracted from the README by default)
-    "title": null,
-    "description": null,
-    "isbn": null,
-
-    // For ebook format, the extension to use for generation (default is detected from output extension)
-    // "epub", "pdf", "mobi"
-    // Caution: it overrides the value from the command line
-    // It's not advised this option in the book.json
-    "extension": null
+"output": null,
+"generator": "site",
+"title": null,
+"description": null,
+"isbn": null,
+"extension": null
 }
