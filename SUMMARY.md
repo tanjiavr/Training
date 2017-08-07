@@ -7,6 +7,8 @@
   * [1.3 产品更新内容](13/132-chan-pin-geng-xin-nei-rong.md)
   * [1.4 产品界面及功能介绍](13/114-chan-pin-jie-mian-ji-gong-neng-jie-shao.md)
 * [2.后台](2hou-tai.md)
+  * [2.1 后台登录网址](2hou-tai/21-hou-tai-deng-lu-wang-zhi.md)
+  * [2.2 后台界面及功能介绍](2hou-tai/22-hou-tai-jie-mian-ji-gong-neng-jie-shao.md)
 * [3.云设计要点](13/3yun-she-ji-yao-dian.md)
 * [4.VR设备及组装](14-ying-jian-an-zhuang.md)
   * [1.2.1 VIVE头戴设备](14-ying-jian-an-zhuang/141-vivetou-dai-she-bei.md)
