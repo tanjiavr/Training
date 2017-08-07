@@ -15,4 +15,5 @@
   * [1.4.1 VIVE头戴设备](14-ying-jian-an-zhuang/141-vivetou-dai-she-bei.md)
   * [1.4.2 串流盒](14-ying-jian-an-zhuang/142.md)
   * [1.4.3 VR操控手柄](14-ying-jian-an-zhuang/143-vrcao-kong-shou-bing.md)
+  * [1.4.4 定位器](14-ying-jian-an-zhuang/144.md)
 
