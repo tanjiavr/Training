@@ -11,11 +11,11 @@
   * [2.2 后台界面及功能介绍](2hou-tai/22-hou-tai-jie-mian-ji-gong-neng-jie-shao.md)
 * [3.同步云设计](13/3yun-she-ji-yao-dian.md)
 * [4.VR设备及组装](14-ying-jian-an-zhuang.md)
-  * [1.2.1 VIVE头戴设备](14-ying-jian-an-zhuang/141-vivetou-dai-she-bei.md)
-  * [1.2.2 串流盒](14-ying-jian-an-zhuang/142.md)
-  * [1.2.3 定位器](14-ying-jian-an-zhuang/144.md)
-  * [1.2.4 VR操控手柄](14-ying-jian-an-zhuang/143-vrcao-kong-shou-bing.md)
-* 5.其他
+  * [4.1 VIVE头戴设备](14-ying-jian-an-zhuang/141-vivetou-dai-she-bei.md)
+  * [4.2 串流盒](14-ying-jian-an-zhuang/142.md)
+  * [4.3 定位器](14-ying-jian-an-zhuang/144.md)
+  * [4.4 VR操作手柄](14-ying-jian-an-zhuang/143-vrcao-kong-shou-bing.md)
+* [5.其他](5qi-ta.md)
   * [5.1 Q&A](51-qanda.md)
   * [5.2 注意事项](52-zhu-yi-shi-xiang.md)
 
