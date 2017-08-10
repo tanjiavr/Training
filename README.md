@@ -12,7 +12,7 @@
 1.4产品界面及功能介绍
 ```
 
-### 2.后台
+### [2.后台](https://www.gitbook.com/book/tanjiavr/training/edit#/edit/master/2hou-tai.md?_k=tsjfh3)
 
 ```
 2.1 后台登录网址
