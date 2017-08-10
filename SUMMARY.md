@@ -17,5 +17,5 @@
   * [1.2.4 VR操控手柄](14-ying-jian-an-zhuang/143-vrcao-kong-shou-bing.md)
 * 5.其他
   * [5.1 Q&A](51-qanda.md)
-  * 5.2 注意事项
+  * [5.2 注意事项](52-zhu-yi-shi-xiang.md)
 
