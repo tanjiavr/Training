@@ -30,7 +30,23 @@
 
 ③在爱福窝探家VR客户端登录同样的账号并选择相应的方案。
 
-![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wpsE5B.tmp.jpg)![](/assets/同步-选择方案.png)
+软件端方案列表
+
+![](/assets/同步-软件我的设计列表1.jpg)
+
+![](/assets/同步-软件 我的设计列表2.jpg)
+
+客户端方案列表
+
+![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wpsE5B.tmp.jpg)![](/assets/同步-客户端我的设计列表.jpg)
+
+软件后台替换模型列表
+
+![](/assets/同步-后台替换模型雷辽.jpg)
+
+客户端替换模型列表
+
+![](/assets/同步-客户端替换模型列表.jpg)
 
 ④切换到VR模式，戴上眼镜就可以进行VR体验了。
 
