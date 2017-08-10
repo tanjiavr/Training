@@ -10,6 +10,8 @@
   * [2.1 后台登录网址](2hou-tai/21-hou-tai-deng-lu-wang-zhi.md)
   * [2.2 后台界面及功能介绍](2hou-tai/22-hou-tai-jie-mian-ji-gong-neng-jie-shao.md)
 * [3.同步云设计](13/3yun-she-ji-yao-dian.md)
+  * [3.1 同步云设计的前提条件](13/3yun-she-ji-yao-dian/31-tong-bu-yun-she-ji-de-qian-ti-tiao-jian.md)
+  * [3.2 怎样同步云设计](13/3yun-she-ji-yao-dian/32-zen-yang-tong-bu-yun-she-ji.md)
 * [4.VR设备及组装](14-ying-jian-an-zhuang.md)
   * [4.1 VIVE头戴设备](14-ying-jian-an-zhuang/141-vivetou-dai-she-bei.md)
   * [4.2 串流盒](14-ying-jian-an-zhuang/142.md)
