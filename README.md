@@ -20,7 +20,7 @@
 2.2 后台界面及功能介绍
 ```
 
-### 3.同步云设计
+### [3.同步云设计](https://www.gitbook.com/book/tanjiavr/training/edit#/edit/master/13/3yun-she-ji-yao-dian.md?_k=0qdcnl)
 
 ```
 3.1 同步云设计的前提条件
@@ -28,7 +28,7 @@
 3.2 怎样同步云设计
 ```
 
-### 4.VR设备及组装
+### [4.VR设备及组装](https://www.gitbook.com/book/tanjiavr/training/edit#/edit/master/14-ying-jian-an-zhuang.md?_k=is5vq4)
 
 ```
 4.1 VIVE头戴设备
@@ -40,7 +40,7 @@
 4.4 VR操作手柄
 ```
 
-### 5.其他
+### [5.其他](https://www.gitbook.com/book/tanjiavr/training/edit#/edit/master/5qi-ta.md?_k=oi9vyf)
 
 ```
 5.1 Q&A
