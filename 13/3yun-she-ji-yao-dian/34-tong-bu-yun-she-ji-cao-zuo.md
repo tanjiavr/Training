@@ -48,6 +48,10 @@
 
 ![](/assets/同步-客户端替换模型列表.jpg)
 
+VR体验模型替换列表
+
+![](/assets/同步-VR体验模型列表.jpg)
+
 ④切换到VR模式，戴上眼镜就可以进行VR体验了。
 
 ![](file:///C:\Users\mengdi\AppData\Local\Temp\ksohtml\wpsE5C.tmp.jpg)![](/assets/同步-模式更换.jpg)
