@@ -1,6 +1,6 @@
 ## **一）、产品logo及启动图标**
 
-![](/assets/logo.png)
+![](/assets/缩小logo.png)
 
 ## **二）、启动动画**![](/assets/启动页面.jpg)
 
